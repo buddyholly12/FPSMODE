@@ -1,8 +1,10 @@
 
-			# Bitter Remorse
+<p align ="center">
+# Bitter Remorse
+</p>
 ## Created BY 
-### E12180084  EZRA
-### E12180110  Shery
-### E12180214  Siendy
-### M26416077  R.Agastya
-### M26416096  Andreas Prst 
+- E12180084  EZRA
+- E12180110  Shery
+- E12180214  Siendy
+- M26416077  R.Agastya
+- M26416096  Andreas Prst 
