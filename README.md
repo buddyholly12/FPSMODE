@@ -1,10 +1,10 @@
 
 <p align ="center">
-# Bitter Remorse
+**Bitter Remorse**
 </p>
 ## Created BY 
-- E12180084  EZRA
-- E12180110  Shery
-- E12180214  Siendy
-- M26416077  R.Agastya
-- M26416096  Andreas Prst 
+1. E12180084  EZRA
+2. E12180110  Shery
+3. E12180214  Siendy
+4. M26416077  R.Agastya
+5. M26416096  Andreas Prst 
